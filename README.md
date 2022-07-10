@@ -11,11 +11,12 @@ The objective of the analysis is to determine if the surf and ice cream shop bus
 ---
 ## Results
 
-The temperature statistics frot he months of June and December are shown below.
+The temperature summary statistics for the months of June and December are shown below: 
 
-![](/Resources/JuneTemps.png)![](/Resources/DecTemps.png)
+![](/Resources/JuneTemps.png)
+![](/Resources/DecTemps.png)
 
-* The total of eligible retiring employees that were born between 1952 and 1955 is 72458 employees.
+* The average temperature between the months of June and December varies only about 4 degrees .
 * The majority of eligible retiring employees are currently occupying senior positions which could be assumed that these employees will retired at any given time.
 * With respect to the mentorship program, it was identified that there are 1549 employees who are eligible to participate in a mentorship program. See a snapshot of the list of eligible mentor employees below.
 
