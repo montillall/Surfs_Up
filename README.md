@@ -14,6 +14,7 @@ The objective of the analysis is to determine if the surf and ice cream shop bus
 The temperature summary statistics for the months of June and December are shown below: 
 
 ![](/Resources/JuneTemps.png)
+
 ![](/Resources/DecTemps.png)
 
 * The average temperature between the months of June and December varies only about 4 degrees .
