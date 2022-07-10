@@ -17,7 +17,7 @@ The temperature summary statistics for the months of June and December are shown
 
 ![](/Resources/DecTemps.png)
 
-* The average temperature between the months of June and December varies only about 4 degrees .
+* The average temperature between the months of June and December varies only about 4 degrees, showing that the temperature doesn't change much year round.
 * The majority of eligible retiring employees are currently occupying senior positions which could be assumed that these employees will retired at any given time.
 * With respect to the mentorship program, it was identified that there are 1549 employees who are eligible to participate in a mentorship program. See a snapshot of the list of eligible mentor employees below.
 
