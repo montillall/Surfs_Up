@@ -11,7 +11,7 @@ The objective of the analysis is to determine if the surf and ice cream shop bus
 ---
 ## Results
 
-The breakdown of eligible retiring employees per job title is shown in image below.
+The temperature statistics frot he months of June and December are shown below.
 
 ![](Retiring_Emp_Title.png)
 
