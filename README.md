@@ -19,16 +19,15 @@ The temperature summary statistics for the months of June and December are shown
 
 * The average temperature between the months of June and December varies only about 4 degrees, showing that the temperature doesn't change much year round.
 * The standard deviation of the observed temperatures for June and December indicates that the temperature ranges within 4 degress compared to the average temperature. Therefore, there's not drastic changes in temperature the majority of the days. 
-* With respect to the mentorship program, it was identified that there are 1549 employees who are eligible to participate in a mentorship program. See a snapshot of the list of eligible mentor employees below.
+* Additional queries were performed to look at the precipitation data (Shown below). The average precipitation between the months of June and December are pretty much the same and overall there's no much rain year round.
 
-![](Mentor_Employees.png)
+![](/Resources/JunePrec.png)
 
+![](/Resources/DecPrec.png)
 
 ---
 ## Summary
 
-The analysis shows that there are 50842 jobs that will need to be filled as the "silver tsunami" begins to make an impact, therefore a hiring plan needs to be in place. It also shows that there are 1549 employees who are eligible to participate in a mentorship program, which demonstrates that there are not enough for the total amount of people  
-
-![](Total_Mentors.png)
+The analysis shows that the weather stays fairly the same year round. The analysis supports the idea of opening the surf and ice cream shop and that it will be sustainible all year round.
 
 ---
