@@ -13,7 +13,7 @@ The objective of the analysis is to determine if the surf and ice cream shop bus
 
 The temperature statistics frot he months of June and December are shown below.
 
-![](/Resources/JuneTemps.png), ![](/Resources/DecTemps.png)
+![](/Resources/JuneTemps.png) ![](/Resources/DecTemps.png)
 
 * The total of eligible retiring employees that were born between 1952 and 1955 is 72458 employees.
 * The majority of eligible retiring employees are currently occupying senior positions which could be assumed that these employees will retired at any given time.
